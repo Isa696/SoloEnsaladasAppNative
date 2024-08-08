@@ -24,5 +24,3 @@ Para ejecutar la versión web de la aplicación, simplemente presiona la tecla W
 
 5. Ejecutar en un dispositivo móvil
 Para visualizar la aplicación en un dispositivo móvil, escanea el código QR con la aplicación Expo Go.
-
-PD: Historial de pedidos aun esta en desarrollo.
