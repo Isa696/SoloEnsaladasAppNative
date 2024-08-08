@@ -2,19 +2,15 @@ import { StyleSheet, Text, View } from "react-native";
 import { colors } from "../global/colors";
 
 const OrderItem = ({ order }) => {
-  const total = order.items.reduce(
-    (acc, currentItem) => (acc += currentItem.price * currentItem.quantity),
-    0
-  );
 
   return (
     <View style={styles.card} onPress={() => {}}>
       <View style={styles.textContainer}>
         <Text style={styles.text}>
-          {new Date(order.createdAt).toLocaleString()}
+        {order.createdAt ? new Date(order.createdAt).toLocaleString() : 'Fecha no disponible'}
         </Text>
-        <Text style={styles.text2}>{order.items.length}</Text>
-        <Text style={styles.text2}>${total}</Text>
+        <Text style={styles.text2}>Items: {order.items.length}</Text>
+        <Text style={styles.text2}>Total: ${order.total}</Text>
       </View>
     </View>
   );
