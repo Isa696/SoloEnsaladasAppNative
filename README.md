@@ -1,5 +1,8 @@
 🍅🥬 Solo Ensaladas 🥕🥑
 
+![Uploading logo-png.png…]()
+
+
 Esta app, desarrollada con React Native & Expo, utiliza Redux Toolkit para manejar estados. 🌟 <br>
 
 Está conectada a una base de datos en Firebase usando RealTimeDatabase. 🔥<br>
