@@ -1,6 +1,7 @@
 🍅🥬 Solo Ensaladas 🥕🥑
 
-![Uploading logo-png.png…]()
+![logo leafs](https://github.com/user-attachments/assets/d336bcfd-21b3-4685-9f88-0db76ecdd791)
+
 
 
 Esta app, desarrollada con React Native & Expo, utiliza Redux Toolkit para manejar estados. 🌟 <br>
