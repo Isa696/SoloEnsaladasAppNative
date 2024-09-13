@@ -1,7 +1,12 @@
-🍅🥬Solo Ensaladas:🥕🥑
-App que utiliza Redux tool kit para manejar estados.
-La misma esta conectada a una base de datos almacenada en Firebase usando RealTimeDatabase.
-Incluye autenticacion y creacion de usuario como tambien la opcion de cargar una foto de perfil.
+🍅🥬 Solo Ensaladas 🥕🥑
+
+Esta app, desarrollada con React Native & Expo, utiliza Redux Toolkit para manejar estados. 🌟 <br>
+
+Está conectada a una base de datos en Firebase usando RealTimeDatabase. 🔥<br>
+
+Incluye autenticación y creación de usuario, además de la opción de cargar una foto de perfil usando la cámara del dispositivo. 📸<br>
+
+Este proyecto lo realicé como ejercicio del curso de desarrollo de apps. 📚<br>
 
 Cómo ejecutar el proyecto🚀
 
